@@ -1,0 +1,9 @@
+# pack-refs with: peeled fully-peeled sorted 
+cf130da7429677456022e001924b2b52b89ce9fa refs/heads/build-agent
+78f6d8087c05ab879353156cfbc35aa739441eb0 refs/heads/build-pipeline-ref
+5557eb89f9117a27af2d865d5c7d69527b87ec7c refs/heads/failed-test
+6bf727ba293b84d8d21a7122aee90e872c560940 refs/heads/master
+e78cab48ffa6a265f1d2626bc23099661bf95640 refs/heads/models-package
+2ac372cbddabae94519e432c6ee80f12cd7c1e1a refs/heads/scan-open-source
+1ed6a2e30a95a134dc32365772f63783676c38b1 refs/heads/security-scan
+a0d82bb4ffd3d0b6ddf5aa2a62ae578474ffa81a refs/heads/unit-tests
